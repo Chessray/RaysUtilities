@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:class xmlns:ns2="http://testful.sourceforge.net/schema/1.1/testful.xsd" instrument="false" name="de.rkl.util.ListUtil">
+    <method kind="static" exposeState="false" name="split">
+        <parameter exchangeStateWith="" exposedByReturn="false" captured="false" mutated="false" type="java.util.List"/>
+        <parameter exchangeStateWith="" exposedByReturn="false" captured="false" mutated="false" type="int"/>
+    </method>
+</ns2:class>
